@@ -9,7 +9,7 @@
 
 ---
 
-<strong><u>Basic Computer Architecture </u></strong>
+<strong> <u> Basic Computer Architecture </u> </strong>
 
 Basic computer architecture outlines how hardware components—including the Central Processing Unit (CPU), memory, and input/output devices—interact to execute programs. It bridges software instructions with physical hardware behavior.
 
