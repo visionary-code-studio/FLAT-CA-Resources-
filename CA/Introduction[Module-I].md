@@ -6,6 +6,7 @@
 
 ---
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250911185223015439/computer_organization_and_architecture.webp">
+
 ---
 <strong><u>Basic Computer Architecture </u></strong>
 Basic computer architecture outlines how hardware components—including the Central Processing Unit (CPU), memory, and input/output devices—interact to execute programs. It bridges software instructions with physical hardware behavior.
